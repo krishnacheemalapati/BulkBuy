@@ -52,7 +52,7 @@ class Cart extends React.Component {
 							}) => (
 								<form onSubmit={handleSubmit}>
 									<div className="field">
-										<label>How we should call you</label>
+										<label>How should we contact you</label>
 										<input name="name" type="text" onChange={handleChange} onBlur={handleBlur} value={values.name}/>
 										<div className="errors">
 										{touched.name && errors.name}

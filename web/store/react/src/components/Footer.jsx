@@ -10,13 +10,13 @@ class Header extends React.Component {
 					<div className="footer_inside">
 						<div className="copyright">
 							<Logo />
-							<div className="year">© 2019</div>
+							<div className="year">© 2023</div>
 						</div>
 						<div className="contacts">
-							<p>1066 Kiely Blvd</p>
-							<p>Santa Clara, CA 95051</p>
-							<p>+1 408-246-0025</p>
-							<p>sales@shop.com</p>
+							<p>75 University Ave W</p>
+							<p>Waterloo, ON N2L 3C5</p>
+							<p>+1 647-747-4747</p>
+							<p>bulk@buy.com</p>
 						</div>
 					</div>
 				</div>

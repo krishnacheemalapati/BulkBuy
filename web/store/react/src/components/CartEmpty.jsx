@@ -13,7 +13,7 @@ class CartEmpty extends React.Component {
 				<div className="emptyCart">
 					<img className="emptyCartImg" src="/static/img/shopping-cart.svg" />
 					<div className="emptyCartText">YOUR CART IS EMPTY</div>
-					<Link to="/"><button className="blueButton">Back to catalog</button></Link>
+					<Link to="/"><button className="blueButton">Back to menu</button></Link>
 				</div>
 			</div>
 		);
